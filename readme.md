@@ -2,4 +2,4 @@
 
 #### Basic Animation and random color function with Javascript
 
-<a src=''>![Animation]()</a>
+<a src=''>![Animation](https://github.com/Topmark1/Javascript-Animation/blob/master/Capture1.PNG)</a>
